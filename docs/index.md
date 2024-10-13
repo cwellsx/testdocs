@@ -3,4 +3,4 @@ title: Hello World
 layout: home
 ---
 
-# Hello World
+# Hello World!
